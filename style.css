@@ -1,0 +1,29 @@
+/* Global Styles */
+body {
+  background-color: #4CAF50; 
+  font-family: 'Arial', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.list-group-item {
+  background-color: blue;
+  color: #333;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.namii{
+  text-align: left;
+}
+.badge{
+  text-align: right;
+}
